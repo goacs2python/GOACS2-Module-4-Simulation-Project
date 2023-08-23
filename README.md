@@ -1,16 +1,15 @@
-# Project 2
+# Module 4 - Virus Simulations
 
-Please complete the problems on the assignment page as follows.
-
-YOU WILL USE THIS REPOSITORY FOR BOTH ASSIGNMENTS OF THIS PROJECT.
+YOU WILL USE THIS REPOSITORY FOR BOTH WEEKS OF THIS MODULE.
 
 ---
 
 ### Instructions
-- For the first assignment, create the `Point`, `Vector`, and `Cell` classes as outlined in the templates and pseudocode given to you in Canvas.
-     - Sync your code to GitHub when you are done with these, but continue using the code you have written in this repository as you work on your simulations.
+- For the first week, create the `Point`, `Vector`, and `Cell` classes as outlined in the templates and pseudocode given to you in Canvas.
+- Create a single simulation as described on the assignment page in Canvas. 
+     - Sync your code to GitHub when you are done with creating the classes and the first simulation, but continue using the code you have written in this repository as you build additional simulations.
 
-- For the second assignment, be sure that you have
+- For the second week, be sure that you have
      - 3 simulations that take data autonomously
      - 3 files of data from those simulations
      - 3 visualizations created from your data.
